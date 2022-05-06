@@ -2,4 +2,24 @@
 <resources>
     <item name="editText" type="id" />
     <item name="username" type="id" />
+    <item name="rl" type="id" />
+    <item name="tv" type="id" />
+    <item name="np" type="id" />
+    <item name="name" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="card_view" type="id" />
+    <item name="edit1" type="id" />
+    <item name="edit2" type="id" />
+    <item name="edit3" type="id" />
+    <item name="edit4" type="id" />
+    <item name="edit5" type="id" />
+    <item name="button3" type="id" />
+    <item name="button4" type="id" />
+    <item name="button5" type="id" />
+    <item name="idTVCourseNamenew" type="id" />
+    <item name="idTVBatch" type="id" />
+    <item name="idTVTracks" type="id" />
+    <item name="idIVCourse" type="id" />
+    <item name="textViewId" type="id" />
+    <item name="textViewCountry" type="id" />
 </resources>

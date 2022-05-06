@@ -9,6 +9,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import webserviceRetrofit.RetrofitMain;
+import webserviceVolley.JsonArrayParsingVolley;
+
 public class Login extends AppCompatActivity  {
 
     EditText password, username;
@@ -49,5 +52,9 @@ public class Login extends AppCompatActivity  {
     }
 
 
+    public void click_for_registration(View view) {
+        Intent i = new Intent(getApplicationContext(), RetrofitMain.class);
+        startActivity(i);
+    }
 }
 
